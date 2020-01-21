@@ -1,0 +1,14 @@
+{
+  "name": "knowler/react-router-wordpress-admin-plugin-demo",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Nathan Knowler",
+      "email": "nathan@knowler.me"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.7",
+    "illuminate/support": "^6.11"
+  }
+}
