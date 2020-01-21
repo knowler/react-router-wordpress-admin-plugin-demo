@@ -14,7 +14,6 @@
 /** Require those Composer dependencies */
 require(__DIR__.'/vendor/autoload.php');
 
-use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 
 /** Create the plugin */
